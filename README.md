@@ -5,10 +5,8 @@ Repositorio publico para armazenar os exercicios do curso
 
 ## Estrutura do repositorio
 
-- `basics/`: exercicios do Capitulo 1, focados em sintaxe basica, entrada e saida,
-  tipos numericos, operadores, strings e conversoes.
-- `language/`: exercicios do Capitulo 2, focados em componentes da linguagem,
-  controle de fluxo, operadores logicos e estruturas de repeticao.
+- `01-basics/`: Capitulo 1, sintaxe basica, entrada/saida, tipos numericos, operadores, strings e conversoes.
+- `02-language/`: Capitulo 2, componentes da linguagem, controle de fluxo, operadores logicos e lacos.
 
 ## Capitulo 1. Basic Python Syntax
 
@@ -32,14 +30,14 @@ simples.
 
 ### Arquivos relacionados
 
-- `basics/basics_ex01.py`
-- `basics/basics_ex02.py`
-- `basics/basics_ex03.py`
-- `basics/basics_ex04.py`
-- `basics/basics_ex05.py`
-- `basics/basics_ex06.py`
-- `basics/basics_ex07.py`
-- `basics/basics_ex08.py`
+- `01-basics/basics_ex01.py`
+- `01-basics/basics_ex02.py`
+- `01-basics/basics_ex03.py`
+- `01-basics/basics_ex04.py`
+- `01-basics/basics_ex05.py`
+- `01-basics/basics_ex06.py`
+- `01-basics/basics_ex07.py`
+- `01-basics/basics_ex08.py`
 
 ## Capitulo 2. Language Components
 
@@ -63,19 +61,19 @@ instrucoes de iteracao.
 
 ### Arquivos relacionados
 
-- `language/language_ex01.py`
-- `language/language_ex02.py`
-- `language/language_ex03.py`
-- `language/language_ex04.py`
-- `language/language_ex05.py`
-- `language/language_ex06.py`
-- `language/language_ex07.py`
-- `language/language_ex08.py`
+- `02-language/language_ex01.py`
+- `02-language/language_ex02.py`
+- `02-language/language_ex03.py`
+- `02-language/language_ex04.py`
+- `02-language/language_ex05.py`
+- `02-language/language_ex06.py`
+- `02-language/language_ex07.py`
+- `02-language/language_ex08.py`
 
 ## Como executar
 
 Os scripts podem ser executados individualmente. Exemplo:
 
 ```bash
-python3 basics/basics_ex01.py
+python3 01-basics/basics_ex01.py
 ```
