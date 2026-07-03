@@ -314,6 +314,31 @@ ordenar estruturas de dados.
 - `09-data_structures/data_structures_ex03.py`
 - `09-data_structures/data_structures_ex04.py`
 
+## Capitulo 10. Regular Expressions
+
+### Resumo
+
+Usar pattern-matching para encontrar, modificar ou separar strings.
+
+### Objetivo
+
+Usar o modulo `re` para realizar operacoes de casamento de padroes com
+expressoes regulares.
+
+### Objetivos de aprendizado
+
+- Usar o modulo `re` para realizar casamento de padroes com expressoes regulares.
+- Entender e usar classes de caracteres e quantificadores em expressoes regulares.
+- Usar grupos para aplicar quantificadores a um grupo dentro de uma expressao.
+- Usar grupos para capturar e manipular o texto que uma expressao regular encontra.
+- Entender e usar as varias funcoes do modulo `re` para operar com expressoes regulares.
+
+### Arquivos relacionados
+
+- `10-regular_expressions/regular_expressions_ex01.py`
+- `10-regular_expressions/regular_expressions_ex02.py`
+- `10-regular_expressions/regular_expressions_ex03.py`
+
 ## Como executar
 
 Os scripts podem ser executados individualmente. Exemplo:
