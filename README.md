@@ -12,6 +12,7 @@ Repositorio publico para armazenar os exercicios do curso
 - `05-modules/`: Capitulo 5, criacao e importacao de modulos, namespaces e `sys.argv`.
 - `06-classes/`: Capitulo 6, classes, propriedades, metodos especiais, heranca e polimorfismo.
 - `07-exceptions/`: Capitulo 7, tratamento de excecoes, try/except, raise, excecoes personalizadas e assert.
+- `08-io/`: Capitulo 8, leitura e escrita de arquivos texto/binarios, `open()`, `with`, `seek`/`tell`, `os` e `os.path`.
 
 ## Capitulo 1. Basic Python Syntax
 
@@ -244,6 +245,43 @@ Criar, tratar e lancar excecoes para controlar erros no codigo.
 - `07-exceptions/exceptions_ex01.py`
 - `07-exceptions/exceptions_ex02.py`
 - `07-exceptions/exceptions_ex03.py`
+
+## Capitulo 8. Input and Output
+
+### Resumo
+
+Leitura e escrita de arquivos texto e binarios, streams padrao (`sys.stdin`,
+`sys.stdout`, `sys.stderr`), modos de abertura, gerenciamento de contexto
+(`with`), acesso aleatorio (`seek`/`tell`), e manipulacao de arquivos e
+diretorios com `os` e `os.path`.
+
+### Objetivo
+
+Ler e escrever sequencias de bytes em fluxos de dados de entrada e saida.
+
+### Objetivos de aprendizado
+
+- Usar capacidades adicionais de E/S alem de `input()` e `print()`.
+- Criar e usar data streams para ler e escrever arquivos.
+- Ler e escrever arquivos de texto.
+- Usar `bytes` e `bytearray` para ler e escrever arquivos binarios.
+- Usar `seek()` e `tell()` para acesso aleatorio ao conteudo do stream.
+- Usar os modulos `os` e `os.path` para trabalhar com arquivos e diretorios.
+
+### Arquivos relacionados
+
+- `08-io/names_a.txt`
+- `08-io/names_b.txt`
+- `08-io/names_c.txt`
+- `08-io/names_d.txt`
+- `08-io/io_ex01.py`
+- `08-io/io_ex02.py`
+- `08-io/io_ex03.py`
+- `08-io/io_ex04.py`
+- `08-io/io_ex05.py`
+- `08-io/io_ex06.py`
+- `08-io/io_ex07.py`
+- `08-io/io_ex08.py`
 
 ## Como executar
 
