@@ -9,6 +9,7 @@ Repositorio publico para armazenar os exercicios do curso
 - `02-language/`: Capitulo 2, componentes da linguagem, controle de fluxo, operadores logicos e lacos.
 - `03-collections/`: Capitulo 3, listas, tuplas, sets, dicionarios e comprehensions.
 - `04-functions/`: Capitulo 4, definicao de funcoes, argumentos, escopo, closures e lambdas.
+- `05-modules/`: Capitulo 5, criacao e importacao de modulos, namespaces e `sys.argv`.
 
 ## Capitulo 1. Basic Python Syntax
 
@@ -134,6 +135,33 @@ Definir e usar funcoes para organizar e reutilizar codigo.
 - `04-functions/functions_ex11.py`
 - `04-functions/functions_ex12.py`
 - `04-functions/functions_ex13.py`
+
+## Capitulo 5. Modules
+
+### Resumo
+
+Apresenta criacao e importacao de modulos, o namespace `__name__`, a guarda
+`if __name__ == "__main__"`, e argumentos de linha de comando com `sys.argv`.
+
+### Objetivo
+
+Organizar codigo em modulos e importa-los em outros programas.
+
+### Objetivos de aprendizado
+
+- Criar modulos com funcoes e classes.
+- Importar modulos com `import` e `from ... import`.
+- Usar `if __name__ == "__main__"` para codigo executavel.
+- Acessar argumentos da linha de comando com `sys.argv`.
+
+### Arquivos relacionados
+
+- `05-modules/math_funcs.py`
+- `05-modules/alt_math.py`
+- `05-modules/modules_ex01.py`
+- `05-modules/modules_ex02.py`
+- `05-modules/modules_ex03.py`
+- `05-modules/modules_ex04.py`
 
 ## Como executar
 
