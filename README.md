@@ -10,6 +10,7 @@ Repositorio publico para armazenar os exercicios do curso
 - `03-collections/`: Capitulo 3, listas, tuplas, sets, dicionarios e comprehensions.
 - `04-functions/`: Capitulo 4, definicao de funcoes, argumentos, escopo, closures e lambdas.
 - `05-modules/`: Capitulo 5, criacao e importacao de modulos, namespaces e `sys.argv`.
+- `06-classes/`: Capitulo 6, classes, propriedades, metodos especiais, heranca e polimorfismo.
 
 ## Capitulo 1. Basic Python Syntax
 
@@ -162,6 +163,36 @@ Organizar codigo em modulos e importa-los em outros programas.
 - `05-modules/modules_ex02.py`
 - `05-modules/modules_ex03.py`
 - `05-modules/modules_ex04.py`
+
+## Capitulo 6. Classes
+
+### Resumo
+
+Apresenta programacao orientada a objetos em Python: definicao de classes,
+atributos, metodos, `@property`, metodos especiais (`__str__`, `__eq__`,
+`__lt__`, `__gt__`), heranca com `super()` e polimorfismo.
+
+### Objetivo
+
+Criar e usar classes para modelar objetos do mundo real.
+
+### Objetivos de aprendizado
+
+- Definir classes com `class` e inicializar com `__init__`.
+- Usar `@property` para getters e setters.
+- Implementar metodos especiais (`__str__`, `__eq__`, `__lt__`, `__gt__`).
+- Usar heranca com `super()` para estender classes.
+- Entender polimorfismo com `isinstance()`.
+
+### Arquivos relacionados
+
+- `06-classes/person.py`
+- `06-classes/family.py`
+- `06-classes/worker.py`
+- `06-classes/classes_ex01.py`
+- `06-classes/classes_ex02.py`
+- `06-classes/classes_ex03.py`
+- `06-classes/classes_ex04.py`
 
 ## Como executar
 
