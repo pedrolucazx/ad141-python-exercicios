@@ -7,6 +7,7 @@ Repositorio publico para armazenar os exercicios do curso
 
 - `01-basics/`: Capitulo 1, sintaxe basica, entrada/saida, tipos numericos, operadores, strings e conversoes.
 - `02-language/`: Capitulo 2, componentes da linguagem, controle de fluxo, operadores logicos e lacos.
+- `03-collections/`: Capitulo 3, listas, tuplas, sets, dicionarios e comprehensions.
 
 ## Capitulo 1. Basic Python Syntax
 
@@ -69,6 +70,34 @@ instrucoes de iteracao.
 - `02-language/language_ex06.py`
 - `02-language/language_ex07.py`
 - `02-language/language_ex08.py`
+
+## Capitulo 3. Collections
+
+### Resumo
+
+Apresenta as colecoes nativas do Python: listas, tuplas, sets e dicionarios,
+incluindo slicing, concatenacao, operacoes de conjunto e comprehensions.
+
+### Objetivo
+
+Usar listas, tuplas, sets e dicionarios para armazenar e manipular dados.
+
+### Objetivos de aprendizado
+
+- Criar e manipular listas com metodos como `append`, `sort` e slicing.
+- Usar tuplas como sequencias imutaveis.
+- Usar sets para armazenar valores unicos e operacoes de conjunto.
+- Usar dicionarios para mapear chaves a valores.
+- Usar comprehensions para construir colecoes de forma concisa.
+
+### Arquivos relacionados
+
+- `03-collections/collections_ex01.py`
+- `03-collections/collections_ex02.py`
+- `03-collections/collections_ex03.py`
+- `03-collections/collections_ex04.py`
+- `03-collections/collections_ex05.py`
+- `03-collections/collections_ex06.py`
 
 ## Como executar
 
