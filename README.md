@@ -339,6 +339,31 @@ expressoes regulares.
 - `10-regular_expressions/regular_expressions_ex02.py`
 - `10-regular_expressions/regular_expressions_ex03.py`
 
+## Capitulo 11. JSON
+
+### Resumo
+
+Integrar, processar e gerar dados no formato JSON.
+
+### Objetivo
+
+Entender o que e JSON e sua sintaxe, e usar o modulo `json` da biblioteca
+padrao para ler e escrever dados JSON.
+
+### Objetivos de aprendizado
+
+- Entender o que e JSON e sua sintaxe.
+- Usar o modulo `json` da biblioteca padrao para ler e escrever dados JSON.
+
+### Arquivos relacionados
+
+- `11-json/books.json`
+- `11-json/cyclone.txt`
+- `11-json/json_ex01.py`
+- `11-json/json_ex02.py`
+- `11-json/json_ex03.py`
+- `11-json/json_ex04.py`
+
 ## Como executar
 
 Os scripts podem ser executados individualmente. Exemplo:

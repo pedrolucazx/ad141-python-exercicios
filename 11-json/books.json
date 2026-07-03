@@ -1,0 +1,51 @@
+{
+  "Odyssey": {
+    "year": 800,
+    "pages": 374,
+    "language": "Greek",
+    "author": "Homer",
+    "country": "Greece"
+  },
+  "Don Quixote": {
+    "year": 1612,
+    "pages": 863,
+    "language": "Spanish",
+    "author": "Miguel de Cervantes",
+    "country": "Spain"
+  },
+  "Moby Dick": {
+    "year": 1851,
+    "pages": 635,
+    "language": "English",
+    "author": "Herman Melville",
+    "country": "United States"
+  },
+  "War and Peace": {
+    "year": 1869,
+    "pages": 1225,
+    "language": "Russian",
+    "author": "Leo Tolstoy",
+    "country": "Russia"
+  },
+  "Hamlet": {
+    "year": 1603,
+    "pages": 162,
+    "language": "English",
+    "author": "William Shakespeare",
+    "country": "England"
+  },
+  "The Great Gatsby": {
+    "year": 1925,
+    "pages": 180,
+    "language": "English",
+    "author": "F. Scott Fitzgerald",
+    "country": "United States"
+  },
+  "One Hundred Years of Solitude": {
+    "year": 1967,
+    "pages": 417,
+    "language": "Spanish",
+    "author": "Gabriel Garcia Marquez",
+    "country": "Colombia"
+  }
+}
