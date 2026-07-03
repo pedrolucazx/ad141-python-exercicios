@@ -13,6 +13,7 @@ Repositorio publico para armazenar os exercicios do curso
 - `06-classes/`: Capitulo 6, classes, propriedades, metodos especiais, heranca e polimorfismo.
 - `07-exceptions/`: Capitulo 7, tratamento de excecoes, try/except, raise, excecoes personalizadas e assert.
 - `08-io/`: Capitulo 8, leitura e escrita de arquivos texto/binarios, `open()`, `with`, `seek`/`tell`, `os` e `os.path`.
+- `09-data_structures/`: Capitulo 9, list/dict comprehensions, generators, `zip()`, sorted com `key`, `operator.itemgetter`/`attrgetter`.
 
 ## Capitulo 1. Basic Python Syntax
 
@@ -282,6 +283,36 @@ Ler e escrever sequencias de bytes em fluxos de dados de entrada e saida.
 - `08-io/io_ex06.py`
 - `08-io/io_ex07.py`
 - `08-io/io_ex08.py`
+
+## Capitulo 9. Data Structures
+
+### Resumo
+
+List comprehensions, dict comprehensions, generators, generator expressions,
+zip para colecoes paralelas, ordenacao customizada com `key` lambda,
+`operator.itemgetter` e `operator.attrgetter`.
+
+### Objetivo
+
+Usar sintaxe compacta e instrucoes especializadas para criar, processar e
+ordenar estruturas de dados.
+
+### Objetivos de aprendizado
+
+- Usar list comprehensions como alternativa concisa para criar listas.
+- Usar dict comprehensions como alternativa concisa para criar dicionarios.
+- Usar generators para processar grandes volumes sem armazenar tudo.
+- Usar generator expressions como alternativa concisa para generators.
+- Usar `zip()` para processar colecoes paralelas.
+- Ordenar estruturas com `sorted()`/`sort()` e `key`.
+
+### Arquivos relacionados
+
+- `09-data_structures/computers.txt`
+- `09-data_structures/data_structures_ex01.py`
+- `09-data_structures/data_structures_ex02.py`
+- `09-data_structures/data_structures_ex03.py`
+- `09-data_structures/data_structures_ex04.py`
 
 ## Como executar
 
