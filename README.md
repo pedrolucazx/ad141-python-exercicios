@@ -8,6 +8,7 @@ Repositorio publico para armazenar os exercicios do curso
 - `01-basics/`: Capitulo 1, sintaxe basica, entrada/saida, tipos numericos, operadores, strings e conversoes.
 - `02-language/`: Capitulo 2, componentes da linguagem, controle de fluxo, operadores logicos e lacos.
 - `03-collections/`: Capitulo 3, listas, tuplas, sets, dicionarios e comprehensions.
+- `04-functions/`: Capitulo 4, definicao de funcoes, argumentos, escopo, closures e lambdas.
 
 ## Capitulo 1. Basic Python Syntax
 
@@ -98,6 +99,41 @@ Usar listas, tuplas, sets e dicionarios para armazenar e manipular dados.
 - `03-collections/collections_ex04.py`
 - `03-collections/collections_ex05.py`
 - `03-collections/collections_ex06.py`
+
+## Capitulo 4. Functions
+
+### Resumo
+
+Apresenta definicao e uso de funcoes, argumentos posicionais e nomeados,
+valores padrao, `*args` e `**kwargs`, funcoes aninhadas, closures e lambda.
+
+### Objetivo
+
+Definir e usar funcoes para organizar e reutilizar codigo.
+
+### Objetivos de aprendizado
+
+- Definir funcoes com `def` e retornar valores com `return`.
+- Usar argumentos padrao, nomeados e variaveis (`*args`).
+- Entender escopo de variaveis locais e globais.
+- Criar funcoes aninhadas e closures.
+- Usar expressoes lambda para funcoes simples.
+
+### Arquivos relacionados
+
+- `04-functions/functions_ex01.py`
+- `04-functions/functions_ex02.py`
+- `04-functions/functions_ex03.py`
+- `04-functions/functions_ex04.py`
+- `04-functions/functions_ex05.py`
+- `04-functions/functions_ex06.py`
+- `04-functions/functions_ex07.py`
+- `04-functions/functions_ex08.py`
+- `04-functions/functions_ex09.py`
+- `04-functions/functions_ex10.py`
+- `04-functions/functions_ex11.py`
+- `04-functions/functions_ex12.py`
+- `04-functions/functions_ex13.py`
 
 ## Como executar
 
