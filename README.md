@@ -11,6 +11,7 @@ Repositorio publico para armazenar os exercicios do curso
 - `04-functions/`: Capitulo 4, definicao de funcoes, argumentos, escopo, closures e lambdas.
 - `05-modules/`: Capitulo 5, criacao e importacao de modulos, namespaces e `sys.argv`.
 - `06-classes/`: Capitulo 6, classes, propriedades, metodos especiais, heranca e polimorfismo.
+- `07-exceptions/`: Capitulo 7, tratamento de excecoes, try/except, raise, excecoes personalizadas e assert.
 
 ## Capitulo 1. Basic Python Syntax
 
@@ -193,6 +194,56 @@ Criar e usar classes para modelar objetos do mundo real.
 - `06-classes/classes_ex02.py`
 - `06-classes/classes_ex03.py`
 - `06-classes/classes_ex04.py`
+
+## Capitulo 7. Exceptions
+
+### Resumo
+
+Tratamento de erros em tempo de execucao usando o modelo de excecoes do Python:
+try/except, else, finally, raise, excecoes definidas pelo usuario e assert.
+
+### Objetivo
+
+Criar, tratar e lancar excecoes para controlar erros no codigo.
+
+### Objetivos de aprendizado
+
+- Usar o modelo de excecoes do Python.
+- Usar `try` e `except` como clausulas basicas de tratamento.
+- Entender e usar varias excecoes na hierarquia de excecoes.
+- Levantar excecoes no codigo com `raise`.
+- Criar e usar excecoes definidas pelo usuario.
+- Entender a palavra-chave `assert` e seus beneficios.
+
+### Conceitos principais
+
+| Conceito       | Descricao                                                                        |
+| -------------- | -------------------------------------------------------------------------------- |
+| `try`/`except` | Bloco que tenta executar codigo e captura excecoes                               |
+| `else`         | Executa se nenhuma excecao ocorreu no `try`                                      |
+| `finally`      | Executa sempre, haja excecao ou nao                                              |
+| `raise`        | Forca o lancamento de uma excecao                                                |
+| `assert`       | Verifica condicao; levanta `AssertionError` se falsa                             |
+| Hierarquia     | Toda excecao herda de `BaseException`; excecoes de usuario herdam de `Exception` |
+
+### Excecoes comuns
+
+| Excecao             | Quando ocorre                                 |
+| ------------------- | --------------------------------------------- |
+| `ValueError`        | Conversao de tipo invalida (ex: `int("abc")`) |
+| `IndexError`        | Indice fora dos limites de uma sequencia      |
+| `KeyError`          | Chave inexistente em um dicionario            |
+| `ZeroDivisionError` | Divisao por zero                              |
+| `EOFError`          | Fim de arquivo inesperado (Ctrl+D)            |
+| `KeyboardInterrupt` | Interrupcao do usuario (Ctrl+C)               |
+| `FileNotFoundError` | Arquivo inexistente                           |
+| `TypeError`         | Operacao em tipo inadequado                   |
+
+### Arquivos relacionados
+
+- `07-exceptions/exceptions_ex01.py`
+- `07-exceptions/exceptions_ex02.py`
+- `07-exceptions/exceptions_ex03.py`
 
 ## Como executar
 
