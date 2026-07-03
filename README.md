@@ -14,6 +14,8 @@ Repositorio publico para armazenar os exercicios do curso
 - `07-exceptions/`: Capitulo 7, tratamento de excecoes, try/except, raise, excecoes personalizadas e assert.
 - `08-io/`: Capitulo 8, leitura e escrita de arquivos texto/binarios, `open()`, `with`, `seek`/`tell`, `os` e `os.path`.
 - `09-data_structures/`: Capitulo 9, list/dict comprehensions, generators, `zip()`, sorted com `key`, `operator.itemgetter`/`attrgetter`.
+- `10-regular_expressions/`: Capitulo 10, pattern-matching com o modulo `re`, classes de caracteres, quantificadores e grupos.
+- `11-json/`: Capitulo 11, integracao, leitura e escrita de dados no formato JSON com o modulo `json`.
 
 ## Capitulo 1. Basic Python Syntax
 
